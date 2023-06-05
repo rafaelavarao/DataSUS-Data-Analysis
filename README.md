@@ -3,6 +3,7 @@ Participantes:
 - Rafaela Varão Albuquerque
 - Diogo Vieira
 - Artur Wiederkehr
+- Pedro Ferreira
 
 O sistemas de dados aberto do DataSUS escolhido foi o SINAN.
 
